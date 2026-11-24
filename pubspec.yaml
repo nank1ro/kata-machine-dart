@@ -1,0 +1,10 @@
+name: kata_machine
+description: Data structure and algorithm katas with starter files and tests for Dart developers.
+repository: https://github.com/nank1ro/kata-machine-dart
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
