@@ -1,6 +1,6 @@
 # Kata Machine in Dart
 
-Practice data structures and algorithms with 29 Dart katas, including sorting, search, trees, graphs, and caches. Each exercise has a starter file in `lib/` and a matching test in `test/`.
+Practice data structures and algorithms with 36 Dart katas, including sorting, search, trees, graphs, and caches. Each exercise has a starter file in `lib/` and a matching test in `test/`.
 
 ## Get started
 
@@ -25,9 +25,11 @@ Pass several test paths to `dart test` to run a subset, or run `dart test` to ch
 - [Binary search](lib/binary_search_list.dart)
 - [Two Crystal Balls](lib/two_crystal_balls.dart)
 - [Bubble sort](lib/bubble_sort.dart)
+- [Selection sort](lib/selection_sort.dart)
 - [Insertion sort](lib/insertion_sort.dart)
 - [Merge sort](lib/merge_sort.dart)
 - [Quicksort](lib/quick_sort.dart)
+- [Heapsort](lib/heap_sort.dart)
 
 ### Collections
 
@@ -41,6 +43,7 @@ Pass several test paths to `dart test` to run a subset, or run `dart test` to ch
 - [Map](lib/map.dart)
 - [LRU cache](lib/lru.dart)
 - [Trie](lib/trie.dart)
+- [Union-find](lib/union_find.dart)
 
 ### Binary trees
 
@@ -49,6 +52,7 @@ Pass several test paths to `dart test` to run a subset, or run `dart test` to ch
 - [Postorder traversal](lib/bt_post_order.dart)
 - [Breadth-first search](lib/bt_bfs.dart)
 - [Depth-first search on a binary search tree](lib/dfs_on_bst.dart)
+- [Binary search tree insertion and deletion](lib/binary_search_tree.dart)
 - [Compare binary trees](lib/compare_binary_trees.dart)
 
 ### Graphs and paths
@@ -56,8 +60,11 @@ Pass several test paths to `dart test` to run a subset, or run `dart test` to ch
 - [Breadth-first search (adjacency list)](lib/bfs_graph_list.dart)
 - [Breadth-first search (adjacency matrix)](lib/bfs_graph_matrix.dart)
 - [Depth-first search (adjacency list)](lib/dfs_graph_list.dart)
+- [Topological sort](lib/topological_sort.dart)
 - [Dijkstra’s shortest path](lib/dijkstra_list.dart)
+- [Bellman–Ford shortest paths](lib/bellman_ford.dart)
 - [Prim’s minimum spanning tree](lib/prims_list.dart)
+- [Kruskal’s minimum spanning tree](lib/kruskal_list.dart)
 - [Maze solver](lib/maze_solver.dart)
 
 ## Credits
